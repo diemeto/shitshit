@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 shitoload
 fuck les guit
 fuck ca tabarnak
+=======
+shitoload
+>>>>>>> parent of 6245d80... fuck les guit
